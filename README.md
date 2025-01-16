@@ -1,5 +1,4 @@
 # 🥀 Introduction:
-A 19 yr-old Vietnamese programmer/businessman.
 ![Animation](https://github.com/user-attachments/assets/3bcf3c4e-2e4d-4b27-966c-e54f2ac859e8)
 
 # 📊 GitHub Stats:
