@@ -11,7 +11,7 @@
 
 
 ### 🎧 Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vn754rjv2ozfbgxsx6zxeq6u64&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=db21e8&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vn754rjv2ozfbgxsx6zxeq6u64&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vn754rjv2ozfbgxsx6zxeq6u64&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=db21e8&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vn754rjv2ozfbgxsx6zxeq6u64&redirect=true)
 
 ### 🐍 GitHub Contribution Snake
 ![Snake animation dark](https://github.com/BeforeLights/BeforeLights/blob/output/github-snake-dark.svg?palette=github-dark)
