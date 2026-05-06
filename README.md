@@ -6,10 +6,10 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BeforeLights&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="46%" />
+<img src="https://github-readme-extended.vercel.app/api?username=BeforeLights&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="46%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeforeLights&theme=midnight-purple&hide_border=true" width="48.5%" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeforeLights&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="40%" />
+<img src="https://github-readme-extended.vercel.app/api/top-langs/?username=BeforeLights&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="40%" />
 </div>
 
 <p align="center">
