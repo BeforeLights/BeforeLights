@@ -6,8 +6,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=BeforeLights&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="46%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeforeLights&theme=midnight-purple&hide_border=true" width="48.5%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BeforeLights&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeforeLights&theme=midnight-purple&hide_border=true"/>
 <br><br>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BeforeLights&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="40%" />
 </div>
