@@ -7,8 +7,8 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BeforeLights&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=BeforeLights&theme=midnight-purple&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BeforeLights&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=BeforeLights&theme=midnight-purple&hide_border=true" />
 </p>
 
 <p align="center">
