@@ -5,12 +5,15 @@
 ![Animation](https://github.com/user-attachments/assets/3bcf3c4e-2e4d-4b27-966c-e54f2ac859e8)
 
 # 📊 GitHub Stats:
-<div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BeforeLights&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeforeLights&theme=midnight-purple&hide_border=true"/>
-<br><br>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BeforeLights&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="40%" />
-</div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BeforeLights&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeforeLights&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BeforeLights&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
