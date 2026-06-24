@@ -16,13 +16,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=BeforeLights&theme=dracula&no-frame=true" alt="trophy" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BeforeLights&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/BeforeLights?label=Follow&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/BeforeLights?style=social" alt="Stars" />
